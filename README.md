@@ -1,11 +1,11 @@
-# file-directory-counter
+# url-parser
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is simple URL parser.
 	
 ## Technologies
 Project is created with:
